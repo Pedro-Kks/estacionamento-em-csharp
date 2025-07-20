@@ -1,0 +1,16 @@
+# Diretórios de build
+bin/
+obj/
+
+# Diretórios do Visual Studio
+.vs/
+*.user
+*.suo
+
+# VSCode
+.vscode/
+
+# Artefatos
+*.exe
+*.dll
+*.pdb
